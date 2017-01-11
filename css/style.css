@@ -37,8 +37,10 @@ body, html
     font-size: 1.2rem;
 }
 
-#lily  {
-  border-radius: 50%;
+.card-content img {
+  border-radius: 50% ;
+  width: 120px !important;
+  height: 120px !important;
 }
 
 
@@ -74,7 +76,8 @@ body, html
 
 .about .card img
 {
-    margin-bottom: 15px;
+    height: 250px;
+    width:289px;
 }
 
 .portfolio .col
@@ -220,4 +223,8 @@ span.text-content span {
 .card .small {
   height: 300px;
   width: 260px;
+}
+
+a:hover {
+  color: purple !important;
 }
