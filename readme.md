@@ -1,3 +1,3 @@
 ##My Portfolio
 
-[portfolio](https://lily-sf888.github.io/portfolio-2017/)
+[Portfolio](https://lily-sf888.github.io/portfolio-2017/)
