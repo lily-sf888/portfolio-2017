@@ -111,12 +111,6 @@ body, html
     text-align: center;
 }
 
-.portfolio img
-{
-    width: 33%;
-    display: inline-block;
-    float: left;
-}
 
 .contact .col
 {
@@ -227,4 +221,21 @@ span.text-content span {
 
 a:hover {
   color: purple !important;
+}
+
+#container {
+  text-align: center;
+}
+
+#container > div {
+  font-size: 20px
+
+}
+
+.card .card-action {
+  border: 0;
+}
+
+.portfolio img {
+  border: 0;
 }
