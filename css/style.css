@@ -1,6 +1,6 @@
 body, html
 {
-    background-image: url("../images/blur.jpg")  !important;
+    background-image: url("../images/sky.jpg")  !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -160,9 +160,6 @@ footer
 
 }
 
-.container .contact {
-  color: white;
-}
 
 .collection img {
   width: 11%;
@@ -247,4 +244,8 @@ a:hover {
 
 .portfolio .col {
   margin: 0;
+}
+
+.contact hr {
+  color: black;
 }
