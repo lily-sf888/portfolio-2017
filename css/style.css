@@ -279,6 +279,19 @@ a:hover {
 }
 
 .intro h1 {
-  color: navy;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 50px;
   text-shadow: 1px 1px black;
+}
+
+.web-dev {
+  font-size: 30px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1 {
+  background: #D3D3D3;
+  opacity: 0.6;
 }
