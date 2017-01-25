@@ -265,3 +265,20 @@ a:hover {
 .row {
   margin-bottom: 0 !important;
 }
+
+.title {
+  color: #ffab40 !important;
+  font-weight: bold;
+}
+
+.intro h5 {
+    background-color: #A9A9A9 !important;
+    opacity: 0.85;
+    font-size: 2em;
+    text-shadow: 1px 1px black;
+}
+
+.intro h1 {
+  color: navy;
+  text-shadow: 1px 1px black;
+}
