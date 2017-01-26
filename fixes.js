@@ -1,11 +1,4 @@
 
-
-
-
-//describe what each project does above links in whitespace
-
-//make projects open in new window target=_blank
-
 //fix Readme for zumba and chakras - Jesse
 
 // all heroku apps: https://quickleft.com/blog/6-easy-ways-to-prevent-your-heroku-node-app-from-sleeping/
