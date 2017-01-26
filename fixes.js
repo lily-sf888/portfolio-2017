@@ -1,22 +1,24 @@
-//work on name and title styling
 
-//set breakpoint at 1100px - Jesse
+
+
 
 //describe what each project does above links in whitespace
 
-//make projects open in new window
+//make projects open in new window target=_blank
 
 //fix Readme for zumba and chakras - Jesse
+
+// all heroku apps: https://quickleft.com/blog/6-easy-ways-to-prevent-your-heroku-node-app-from-sleeping/
 
 //Zumba fixes:
 
 //set up demo account for login page e.g. please use demo@demo.com to try out the apps
 
-//make "Get your zumba on" much smaller
+//make "Get your zumba on" much smaller (Lily)
 
-//move previous and next buttons
+//move previous and next buttons (Lily)
 
-//tone down the background
+//tone down the background (Lily)
 
 //chakra fixes:
 
@@ -25,5 +27,3 @@
 //edit content on the chakras
 
 //put feedback into some kind of log for the user - Jesse
-
-//youtube api links for yoga stretches

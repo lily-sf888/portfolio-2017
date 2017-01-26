@@ -235,28 +235,10 @@ a:hover {
   color: black;
 }
 
-.card.small {
-    /*height: 250px;*/
-    max-width: 100%;
-    display: block;
-    height: 250px;
+.card .card-content {
+  padding: 5px;
+  text-align: left;
 }
-
-.card.small .card-image  {
-  min-height: 100%;
-}
-
-.card .card-image img {
-  /*height: 255px !important;*/
-  max-width: 100%;
-  display: block;
-  height: auto;
-}
-
-.card {
-
-}
-
 .container {
   width: 82% !important;
   margin-top: 5% !important;
@@ -289,6 +271,7 @@ a:hover {
   font-size: 30px;
   font-weight: 400;
   font-style: italic;
+  display: inline-block;
 }
 
 h1 {
