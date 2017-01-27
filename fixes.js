@@ -5,7 +5,6 @@
 
 //Zumba fixes:
 
-
 //chakra fixes:
 
 //my chakras main page needs some guidance on what to do
