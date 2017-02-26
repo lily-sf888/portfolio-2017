@@ -9,9 +9,8 @@ body, html
 .intro
 {
     text-align: center;
-    padding-top: 5%;
-    padding-bottom: 10%;
-    margin-bottom: 50px;
+    padding-top: 3%;
+    padding-bottom: 3%;
     background-image: url("../images/carmel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,14 +52,19 @@ body, html
 {
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    padding-top: 5%;
 }
 
 .about h6
 {
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 45px;
+    margin-bottom: 10px;
+}
+
+h6 {
+  font-size: 18px;
 }
 
 .about hr
@@ -91,13 +95,13 @@ body, html
 {
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 45px;
+    margin-bottom: 30px;
 }
 
 .portfolio hr
 {
     width: 40px;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .portfolio .portfolio-holder
@@ -240,8 +244,9 @@ a:hover {
   text-align: left;
 }
 .container {
-  width: 82% !important;
-  margin-top: 5% !important;
+  margin: auto;
+  padding: 0 2%;
+  width: 100%;
 }
 
 .row {
@@ -280,5 +285,15 @@ h1 {
 }
 
 .card .card-content p {
-  font-size: 13px;
+  font-size: 1em;
+  padding: 3%;
+}
+
+.card .medium .card-image {
+  max-height: 70%;
+
+}
+
+footer.page-footer  {
+  background-color: grey !important;
 }
