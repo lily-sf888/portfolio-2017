@@ -294,6 +294,17 @@ h1 {
 
 }
 
-footer.page-footer  {
-  background-color: grey !important;
+footer a {
+  padding-left: 15px;
+}
+
+footer {
+  font-size: 18px;
+  background-color: grey;
+  padding: 10px;
+  text-align: center;
+}
+
+.icons p:first-child {
+  font-size: 20px;
 }
