@@ -308,3 +308,23 @@ footer {
 .icons p:first-child {
   font-size: 20px;
 }
+
+.reference {
+  height: 451px;
+  width: 386px;
+  background-color: #f4efef;
+  margin: 2% auto;
+  display: table;
+  background-color: #f4efef;
+  box-shadow: 7px 7px 10px #c1bbbb;
+  border-radius: 2px;
+}
+
+.about-bg {
+  height: 451px;
+  width: 386px;
+  margin: 0.5rem 0 1rem 0;
+  background-color: #f4efef;
+  border-radius: 2px;
+  border: 1px solid #e0e0e0;
+}
