@@ -1,4 +1,4 @@
-##My Portfolio
+## My Portfolio
 
 My [Portfolio](https://lily-sf888.github.io/portfolio-2017/) displays links of
 apps I've built using javascript frameworks in React, Redux and
